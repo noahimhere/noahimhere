@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats.vercel.app/api?username=noahimhere&show_icons=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=noahimhere&layout=compact&theme=radical"/>
