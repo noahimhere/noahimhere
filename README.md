@@ -7,8 +7,8 @@ noahimhere/noahimhere is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-stats.vercel.app/api?username=noahimhere&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=noahimhere&show_icons=true&theme=radical" style="display: inline"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=noahimhere&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=noahimhere&layout=compact&theme=radical" style="display: inline"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noahimhere&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noahimhere&theme=radical" style="display: inline"/>
